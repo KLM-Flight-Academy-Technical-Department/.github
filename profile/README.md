@@ -10,5 +10,5 @@ Code to match AcMP part traceability data with FlightLogger flight hours and cyc
 ### flightlogger-wrapper
 Wrapper for the FlightLogger API providing a single function for fetching of a variety of data from FlightLogger.
 
-### CANport-processor
-Server-based implementation for handling of received data from CANport modules. Utilizes the Microsoft Graph API to fetch incoming emails with data and handles these accordingly. If deemed required, notifications are sent by email to the Technical Department and over Telegram using the Telegram API.
+### jopie
+Jopie is a system developed specifically for use by the KLM Flight Academy maintenance department. Jopie is a continuously running script handling incoming ECU data, FlightLogger data and much more. The purpose of Jopie is to develop a helper for the Technical Department, assisting in whatever data-gathering and reporting is necessary and relieving the office employees as much as possible.
