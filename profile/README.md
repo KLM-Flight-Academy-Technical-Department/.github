@@ -12,3 +12,6 @@ Wrapper for the FlightLogger API providing a single function for fetching of a v
 
 ### jopie
 Jopie is a system developed specifically for use by the KLM Flight Academy maintenance department. Jopie is a continuously running script handling incoming ECU data, FlightLogger data and much more. The purpose of Jopie is to develop a helper for the Technical Department, assisting in whatever data-gathering and reporting is necessary and relieving the office employees as much as possible.
+
+### warranty-helper
+The warranty helper is a script that processes AcMP traceability and work-order data to generate a simple to use Excel for aid in identifying possible warranty claims.
